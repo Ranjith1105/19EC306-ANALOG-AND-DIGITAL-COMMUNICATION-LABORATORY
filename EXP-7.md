@@ -7,6 +7,7 @@ To implement error control coding schemes with linear block codes using MATLAB.
 # PROGRAM:
 # ERROR CODING
 # ENCODING:
+```
 clc;
 
 close all;
@@ -26,12 +27,13 @@ code = encode(msg, n, k, 'cyclic');
 msg
 
 code
-
+```
 # ENCODING OUTPUT:
 <img width="597" height="262" alt="image" src="https://github.com/user-attachments/assets/cdc76659-20e1-4ec7-a0c5-e97d841a9f2d" />
 
 
 # DECODING PROGRAM:
+```
 clc;
 
 clear all;
@@ -67,7 +69,7 @@ parmat
 corrvect
 
 correctedcode
-
+```
 # DECODING OUTPUT:
 <img width="540" height="223" alt="image" src="https://github.com/user-attachments/assets/a57c894d-8dbe-4c97-bf80-4fd372858772" />
 
