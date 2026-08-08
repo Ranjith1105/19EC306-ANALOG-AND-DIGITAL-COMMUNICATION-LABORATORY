@@ -110,13 +110,21 @@ display(100 - (100 * h / l));
 ```
 # Input:
 Enter the Number of message ensembles: 4
+
 Enter the probabilities in ascending order Ensemble 1
+
 0.2
+
 Ensemble 2
+
 0.3
+
 Ensemble 4
+
 0.4
+
 Ensemble 5
+
 0.4
 
 # OUTPUT:
